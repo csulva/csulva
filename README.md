@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on a Flask webapp
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on anything data related
-- 🤔 I’m looking for help with my portfolio
+- 🤔 I’m looking for software development jobs
 - 💬 Ask me about Python
 - 📫 How to reach me: Gmail
 - 😄 Pronouns: He/Him
