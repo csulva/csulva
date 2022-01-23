@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Flask webapp
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on anything data related
-- 🤔 I’m looking for software development jobs
+- :necktie: I’m looking for software development jobs
 - 💬 Ask me about Python
 - 📫 How to reach me: [Gmail](mailto:chrissulva1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chrissulva/) 
 - 😄 Pronouns: He/Him
